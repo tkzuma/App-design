@@ -1,2 +1,2 @@
-# App-design
-A Platform to practice coding to make an app 
+# Hello-world
+A undergrade student studying mechanical engineering, I'm generally a energetic person and fairly introsective. 
